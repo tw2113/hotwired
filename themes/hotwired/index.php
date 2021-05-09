@@ -3,10 +3,10 @@
     ?>
     <main>
         <h1>HotWired</h1>
-        <h2 class="matt">LATEST MATT:</h2>
+        <h2 class="handtalk">LATEST TALK FROM THE HAND:</h2>
         <div id="marquee">
-            <p class="thing" id="thing">
-                Marquee all the theengs
+            <p class="handtalk-item" id="handtalk-item">
+                Ugh! As if!
             </p>
         </div>
     </main>

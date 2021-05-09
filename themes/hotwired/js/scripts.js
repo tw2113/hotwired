@@ -1,4 +1,4 @@
-const para1 = document.getElementById("thing");
+const para1 = document.getElementById("handtalk-item");
 animate(para1);
 function animate(element) {
     let elementWidth = element.offsetWidth;

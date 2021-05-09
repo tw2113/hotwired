@@ -54,14 +54,14 @@ h1 {
     overflow: hidden;
 }
 
-.thing {
+.handtalk-item {
     color: #fff;
     font-weight: bold;
     white-space: nowrap;
     clear: both;
     float: left;
 }
-.matt {
+.handtalk {
     color: #f00;
 }
 footer.copyright {
