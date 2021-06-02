@@ -19,6 +19,7 @@ body {
 }
 .wrap {
     max-width: 1024px;
+    padding: 0 15px;
 }
 header {
     background-color: #fff;
@@ -44,8 +45,9 @@ nav ul.menu a {
 img.header {
     width: 100%;
 }
-h1 {
-    color: #fff;
+main {
+    background-color: #fff;
+    padding: 5px 10px;
 }
 #marquee {
     background-color: maroon;
